@@ -3,10 +3,8 @@
 - 🌱 I’m currently learning Flutter.
 
 ### Flutter UIs Made By Me ..
- - [News App UI](https://github.com/muzzammil763/news_app)
+ - [News App](https://github.com/muzzammil763/news_app)
 
--  [E-Learning App 
-UI](https://github.com/muzzammil763/e_learning_app)
+-  [E-Learning App](https://github.com/muzzammil763/e_learning_app)
 
--  [Event Booking App
-UI](https://github.com/muzzammil763/event_booking_ui)
+-  [Event Booking App](https://github.com/muzzammil763/event_booking_ui)
