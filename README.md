@@ -7,3 +7,6 @@
 
 -  [E-Learning App 
 UI](https://github.com/muzzammil763/e_learning_app)
+
+-  [Event Booking App
+UI](https://github.com/muzzammil763/event_booking_ui)
