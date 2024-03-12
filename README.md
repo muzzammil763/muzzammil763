@@ -7,4 +7,4 @@
 
 -  [E-Learning App](https://github.com/muzzammil763/e_learning_app)
 
--  [Event Planner App](https://github.com/muzzammil763/event_booking_ui)
+-  [Event Booking App](https://github.com/muzzammil763/event_booking_ui)
