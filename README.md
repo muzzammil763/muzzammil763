@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I'm Muzzammil Ghafoor.
-- 🌱 I’m currently learning Flutter.
+- I’m currently learning Flutter & FlutterFlow.
 
 ### Flutter UIs Made By Me ..
  - [News App](https://github.com/muzzammil763/news_app)
