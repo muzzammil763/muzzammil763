@@ -1,7 +1,9 @@
 <h1 align="left">Hi 👋, I'm Muzamil Ghafoor</h1>
 <h3 align="left">A passionate developer from Pakistan</h3>
 
-🚀 Total Commits: ![](https://img.shields.io/github/commit-activity/t/muzzammil763?label=Total%20Commits&style=flat)
+<p align="left">
+  💻 Total Contributions: <img src="https://img.shields.io/github/commit-activity/t/muzzammil763/muzzammil763?label=All%20Commits&style=flat-square"/> across <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Repositories&query=$.public_repos&url=https://api.github.com/users/muzzammil763"/> repositories
+</p>
 
 <!-- Detailed GitHub Stats -->
 <p align="left">
