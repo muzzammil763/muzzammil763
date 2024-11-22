@@ -2,9 +2,5 @@
 <h3 align="left">A passionate developer from Pakistan</h3>
 
 <p align="left">
-<!-- Total Contributions Badge -->
-<img src="https://contrib.rocks/image?repo=muzzammil763/muzzammil763&max=999" alt="Total Contributions"/>
+🔥 Total Contributions: <img src="https://img.shields.io/github/commit-activity/y/muzzammil763?style=flat-square&label=All%20Time%20Commits&color=success"/>
 </p>
-
-<!-- Alternative contribution count -->
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=muzzammil763&hide_border=true&theme=radical)
